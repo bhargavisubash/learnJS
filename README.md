@@ -1,5 +1,5 @@
 ## Variables in JS
 
-var -> global scope
-let -> function scope
-const -> function scope
+1. var -> global scope
+2. let -> function scope
+3. const -> function scope
